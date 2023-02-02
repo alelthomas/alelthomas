@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alelthomas (aka @pikacodes on socials)
 - 👀 I’m interested in software development, testing, Kubernetes, web dev, and community
-- 🌱 I’m currently learning Golang!
+- 🌱 I’m currently learning Go
 
 <!---
 alelthomas/alelthomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
